@@ -45,11 +45,5 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/naylec/naylec/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and projects.*
