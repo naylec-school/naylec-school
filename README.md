@@ -47,9 +47,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naylec-school&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naylec-school&theme=tokyonight&column=4"/>
-</p>
-
 ---
